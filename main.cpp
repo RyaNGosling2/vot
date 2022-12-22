@@ -4,7 +4,7 @@
 #include <string> 
 #include "std.h"
 using namespace std;
-
+//прога то учебная))))
 void main()
 { 
 	int a,b;
