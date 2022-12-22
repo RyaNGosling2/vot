@@ -13,4 +13,5 @@ void main()
 	cout <<"Введите b -";
 	cin >> b<<endl;
 	cout<< a+b<<endl;
+	cout<< a-b<<endl;
 }	
